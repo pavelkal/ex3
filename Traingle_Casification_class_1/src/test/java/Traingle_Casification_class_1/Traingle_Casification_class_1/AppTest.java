@@ -11,7 +11,7 @@ import  org.junit.Test;
 public class AppTest {
 	
 	TriangleClassifier triangle = new TriangleClassifier();
-	//
+	
 	@Test
   
 	public void equilateralTriangle1(){
