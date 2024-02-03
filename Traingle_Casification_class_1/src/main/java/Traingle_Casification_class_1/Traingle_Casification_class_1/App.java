@@ -5,7 +5,7 @@ package Traingle_Casification_class_1.Traingle_Casification_class_1;
  * Hello world!
  *
  */
-
+//
 enum Triangle_Types {
 	  equilateral,
 	  isosceles,

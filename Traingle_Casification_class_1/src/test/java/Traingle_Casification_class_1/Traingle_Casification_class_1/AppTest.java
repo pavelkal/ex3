@@ -7,7 +7,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 import  org.junit.Test;
-
+//
 public class AppTest {
 	
 	TriangleClassifier triangle = new TriangleClassifier();
